@@ -12,43 +12,42 @@
 ### Поменяем куки чтобы посмотреть логи
 ![1](/ЗИ_Challenges/Toxic/request.png)
 ![1](/ЗИ_Challenges/Toxic/response.png)
-###Получили в ответе папки, среди них главный инетерес сосавляет папка с флагом
+### Получили в ответе папки, среди них главный инетерес сосавляет папка с флагом
 ![1](/ЗИ_Challenges/Toxic/payload2.png)
-###Пытаемся в нее зайти
+### Пытаемся в нее зайти
 ![1](/ЗИ_Challenges/Toxic/key.png)
-###Ура! Мы это сделали!
+### Ура! Мы это сделали!
 ![1](/ЗИ_Challenges/Toxic/done.png)
 
 ## USB Ripper
 ![1](/ЗИ_Challenges/USB Ripper/usb-ripper_catalog.png)
-###Вот что идет в комплекте с этим челленджем
+### Вот что идет в комплекте с этим челленджем
 ![1](/ЗИ_Challenges/USB Ripper/manufact_json.png)
 ![1](/ЗИ_Challenges/USB Ripper/serial_num.png)
 ![1](/ЗИ_Challenges/USB Ripper/product_num.png)
-###Json файл
+### Json файл
 ![1](/ЗИ_Challenges/USB Ripper/syslog.png)
-###log взломанной машины
+### log взломанной машины
 ![1](/ЗИ_Challenges/USB Ripper/python_script.png)
-###Ищем серийный номер в логах такой, чтобы его не было в джейсоне
+### Ищем серийный номер в логах такой, чтобы его не было в джейсоне
 ![1](/ЗИ_Challenges/USB Ripper/serial_found.png)
 ![1](/ЗИ_Challenges/USB Ripper/md5_decode.png)
-###Декодируем и получаем флаг
+### Декодируем и получаем флаг
 ![1](/ЗИ_Challenges/USB Ripper/succ.png)
 
 ## MarketDump
 ![1](/ЗИ_Challenges/USB Ripper/description.png)
-###Злоумышленник украл бд. Окей
+### Злоумышленник украл бд. Окей
 ![1](/ЗИ_Challenges/USB Ripper/files.png)
-###Единственный файл - это перехваченные пакеты
+### Единственный файл - это перехваченные пакеты
 ![1](/ЗИ_Challenges/USB Ripper/how.png)
-###Гуглим как его открыть
+### Гуглим как его открыть
 ![1](/ЗИ_Challenges/USB Ripper/tracer_res.png)
-###Ищу что связано с базами данных отсортировав по протоколу и обращаю внимание только на протоколы HTTP
+### Ищу что связано с базами данных отсортировав по протоколу и обращаю внимание только на протоколы HTTP
 ![1](/ЗИ_Challenges/USB Ripper/res.png)
-###В хедере написано что запрос был к базе, мб наш человек?
+### В хедере написано что запрос был к базе, мб наш человек?
 ![1](/ЗИ_Challenges/USB Ripper/key.png)
-###Немного полистав файл видим что то странное
+### Немного полистав файл видим что то странное
 ![1](/ЗИ_Challenges/USB Ripper/decoded.png)
-###Пытаемся декодировать, и, действительно, все получилось
+### Пытаемся декодировать, и, действительно, все получилось
 ![1](/ЗИ_Challenges/USB Ripper/done.png)
-![9](/screens/9.png)
