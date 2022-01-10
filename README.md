@@ -20,34 +20,34 @@
 ![1](/ЗИ_Challenges/Toxic/done.png)
 
 ## USB Ripper
-![1](/ЗИ_Challenges/USB Ripper/usb-ripper_catalog.png)
+![1](/ЗИ_Challenges/USB_Ripper/usb-ripper_catalog.png)
 ### Вот что идет в комплекте с этим челленджем
-![1](/ЗИ_Challenges/USB Ripper/manufact_json.png)
-![1](/ЗИ_Challenges/USB Ripper/serial_num.png)
-![1](/ЗИ_Challenges/USB Ripper/product_num.png)
+![1](/ЗИ_Challenges/USB_Ripper/manufact_json.png)
+![1](/ЗИ_Challenges/USB_Ripper/serial_num.png)
+![1](/ЗИ_Challenges/USB_Ripper/product_num.png)
 ### Json файл
-![1](/ЗИ_Challenges/USB Ripper/syslog.png)
+![1](/ЗИ_Challenges/USB_Ripper/syslog.png)
 ### log взломанной машины
-![1](/ЗИ_Challenges/USB Ripper/python_script.png)
+![1](/ЗИ_Challenges/USB_Ripper/python_script.png)
 ### Ищем серийный номер в логах такой, чтобы его не было в джейсоне
-![1](/ЗИ_Challenges/USB Ripper/serial_found.png)
-![1](/ЗИ_Challenges/USB Ripper/md5_decode.png)
+![1](/ЗИ_Challenges/USB_Ripper/serial_found.png)
+![1](/ЗИ_Challenges/USB_Ripper/md5_decode.png)
 ### Декодируем и получаем флаг
-![1](/ЗИ_Challenges/USB Ripper/succ.png)
+![1](/ЗИ_Challenges/USB_Ripper/succ.png)
 
 ## MarketDump
-![1](/ЗИ_Challenges/USB Ripper/description.png)
+![1](/ЗИ_Challenges/MarketDump/description.png)
 ### Злоумышленник украл бд. Окей
-![1](/ЗИ_Challenges/USB Ripper/files.png)
+![1](/ЗИ_Challenges/MarketDump/files.png)
 ### Единственный файл - это перехваченные пакеты
-![1](/ЗИ_Challenges/USB Ripper/how.png)
+![1](/ЗИ_Challenges/MarketDump/how.png)
 ### Гуглим как его открыть
-![1](/ЗИ_Challenges/USB Ripper/tracer_res.png)
+![1](/ЗИ_Challenges/MarketDump/tracer_res.png)
 ### Ищу что связано с базами данных отсортировав по протоколу и обращаю внимание только на протоколы HTTP
-![1](/ЗИ_Challenges/USB Ripper/res.png)
+![1](/ЗИ_Challenges/MarketDump/res.png)
 ### В хедере написано что запрос был к базе, мб наш человек?
-![1](/ЗИ_Challenges/USB Ripper/key.png)
+![1](/ЗИ_Challenges/MarketDump/key.png)
 ### Немного полистав файл видим что то странное
-![1](/ЗИ_Challenges/USB Ripper/decoded.png)
+![1](/ЗИ_Challenges/MarketDump/decoded.png)
 ### Пытаемся декодировать, и, действительно, все получилось
-![1](/ЗИ_Challenges/USB Ripper/done.png)
+![1](/ЗИ_Challenges/MarketDump/done.png)
